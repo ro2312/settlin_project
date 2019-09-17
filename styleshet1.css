@@ -1,0 +1,77 @@
+body {
+    background-color: brown;
+    background-image: url(../html/B.jpeg);
+    background-size: cover;
+}
+
+.container {
+    position: relative;
+}
+
+.p1 {
+    position: absolute;
+    right: 22rem;
+    bottom: 0.5rem;
+    font-size: 15px;
+    
+}
+
+p {
+    font-size: 12px;
+}
+
+
+h1 {
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    text-shadow: 3px 2px red;
+    word-spacing: 2px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin: 100px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    text-shadow: 3px 2px white;
+}
+.T1 table, th, td {
+        border-collapse: 5px solid black;
+        width: 40%;
+        height: 40px;
+        text-align: center;
+
+}
+
+img {
+    margin-left: 450px;
+    margin-right: 0%;
+    border-radius: 50px;
+    max-width: 100%;
+    height: auto;
+}
+
+img :hover {
+    box-shadow: 0 0 12px 6px rgba(0, 157, 189, 0.6);
+}
+
+
+/* .p1 {
+    margin-top: 100px;
+    text-align: center;
+    margin-top: 20px;
+    border-bottom-left-radius: 3px;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+} */
+
+.p2,
+p {
+    margin: 30px;
+    line-height: 1em;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
