@@ -39,7 +39,7 @@ h2 {
     text-shadow: 3px 2px white;
 }
 .T1 table, th, td {
-        border-collapse: 5px solid black;
+        border: 1px solid black;
         width: 40%;
         height: 40px;
         text-align: center;
